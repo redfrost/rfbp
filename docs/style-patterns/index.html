@@ -13,12 +13,12 @@
   -->
 
   <!-- Site info -->
-  <title>Custom Template &middot; RFBP</title>
-  <meta property="og:title" content="Custom Template" />
+  <title>Grid system &middot; RFBP</title>
+  <meta property="og:title" content="Grid system" />
   <meta property="og:site_name" content="RFBP" />
-  <meta property="og:url" content="http://redfrost.com/rfbp/contact/" />
+  <meta property="og:url" content="http://redfrost.com/rfbp/docs/style-patterns/" />
   <meta property="og:type" content="website" />
-  <meta property="og:description" name="description" content="Full-width Layout Page Template">
+  <meta property="og:description" name="description" content="12 Columns Responsive Layout">
   <meta property="og:image" content="http://redfrost.com/rfbp/assets/brand/thumbnail.png" />
   <meta name="twitter:card" content="summary"/>
 
@@ -39,13 +39,13 @@
   <script src="http://redfrost.com/assets/js/vendor/modernizr-3.2.0.min.js"></script>
   <meta name="robots" content="noindex, nofollow">
 
-  <link rel="canonical" href="http://redfrost.com/rfbp/contact/">
+  <link rel="canonical" href="http://redfrost.com/rfbp/docs/style-patterns/">
   <link rel="alternate" type="application/rss+xml" title="RFBP" href="http://redfrost.com/rfbp/feed.xml">
 </head>
 
 
 
-<body id="top" class="custom-template  fixed-nav style-testing ">
+<body id="top" class="grid-system  fixed-nav style-testing ">
   <div id="master-wrap">
 
 
@@ -117,14 +117,14 @@
 
 
   
-<div class="jumbotron main-header main-header-bg" style="background-image: url('/rfbp/assets/img/banner-02.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="jumbotron main-header">
 
   <div class="container">
 
 
       <div class="scroll-fade jumbotron-text">
-        <h1 class="post-title">Custom Template</h1>
-        <p class="lead">Full-width Layout Page Template</p>
+        <h1 class="post-title">Grid system</h1>
+        <p class="lead">12 Columns Responsive Layout</p>
       </div>
 
 
@@ -137,102 +137,105 @@
 
     <!-- Main -->
     <main class="main" role="main">
-    <div class="row">
-  <div class="col-md-3">
-  Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+    <article class="grid-system">
+
+  <div class="row show-grid">
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
   </div>
 
-
-  <div class="col-md-9">
-  
-<!-- Contact Form -->
-<form class="form-horizontal">
-  <fieldset>
-
-  <!-- Form Name -->
-  <legend>Contact Form</legend>
-
-  <!-- Text input-->
-  <div class="form-group">
-    <label class="col-md-2 control-label" for="name">Name: </label>
-    <div class="col-md-10">
-    <input id="name" name="name" placeholder="Your Name" class="form-control input-md" required="" type="text" />
-
-    </div>
+  <div class="row show-grid">
+    <div class="col col-sm-2"><p>2</p></div>
+    <div class="col col-sm-2"><p>2</p></div>
+    <div class="col col-sm-2"><p>2</p></div>
+    <div class="col col-sm-2"><p>2</p></div>
+    <div class="col col-sm-2"><p>2</p></div>
+    <div class="col col-sm-2"><p>2</p></div>
   </div>
 
-  <!-- Text input-->
-  <div class="form-group">
-    <label class="col-md-2 control-label" for="email">Email:</label>
-    <div class="col-md-10">
-    <input id="email" name="email" placeholder="Your Email" class="form-control input-md" required="" type="text" />
-
-    </div>
+  <div class="row show-grid">
+    <div class="col col-sm-3"><p>3</p></div>
+    <div class="col col-sm-3"><p>3</p></div>
+    <div class="col col-sm-3"><p>3</p></div>
+    <div class="col col-sm-3"><p>3</p></div>
   </div>
 
-  <!-- Multiple Checkboxes (inline) -->
-  <div class="form-group">
-    <label class="col-md-2 control-label" for="package">Package:</label>
-    <div class="col-md-10">
-      <label class="checkbox-inline" for="package-0">
-        <input name="package" id="package-0" value="1" type="checkbox" />
-        1
-      </label>
-      <label class="checkbox-inline" for="package-1">
-        <input name="package" id="package-1" value="2" type="checkbox" />
-        2
-      </label>
-      <label class="checkbox-inline" for="package-2">
-        <input name="package" id="package-2" value="3" type="checkbox" />
-        3
-      </label>
-      <label class="checkbox-inline" for="package-3">
-        <input name="package" id="package-3" value="4" type="checkbox" />
-        4
-      </label>
-    </div>
+  <div class="row show-grid">
+    <div class="col col-sm-4"><p>4</p></div>
+    <div class="col col-sm-4"><p>4</p></div>
+    <div class="col col-sm-4"><p>4</p></div>
   </div>
 
-  <!-- Select Basic -->
-  <div class="form-group">
-    <label class="col-md-2 control-label" for="option">Option:</label>
-    <div class="col-md-10">
-      <select id="option" name="option" class="form-control">
-        <option value="1">Option one</option>
-        <option value="2">Option two</option>
-      </select>
-    </div>
+  <div class="row show-grid">
+    <div class="col col-sm-1"><p>1</p></div>
+    <div class="col col-sm-11"><p>11</p></div>
   </div>
 
-  <!-- Textarea -->
-  <div class="form-group">
-    <label class="col-md-2 control-label" for="message">Message</label>
-    <div class="col-md-10">
-      <textarea class="form-control" id="message" name="message" rows="10" style="max-width:100%;"></textarea>
-    </div>
+  <div class="row show-grid">
+    <div class="col col-sm-2"><p>2</p></div>
+    <div class="col col-sm-10"><p>10</p></div>
   </div>
 
-  <!-- File Button -->
-  <div class="form-group">
-    <label class="col-md-2 control-label" for="file_upload">File Upload:</label>
-    <div class="col-md-10">
-      <input id="file_upload" name="file_upload" class="input-file" type="file" />
-    </div>
+  <div class="row show-grid">
+    <div class="col col-sm-3"><p>3</p></div>
+    <div class="col col-sm-9"><p>9</p></div>
   </div>
 
-  <!-- Button -->
-  <div class="form-group">
-    <label class="col-md-2 control-label" for="submit"></label>
-    <div class="col-md-10">
-      <button id="submit" name="submit" class="btn btn-xl btn-primary">Submit</button>
-    </div>
+  <div class="row show-grid">
+    <div class="col col-sm-4"><p>4</p></div>
+    <div class="col col-sm-8"><p>8</p></div>
   </div>
 
-  </fieldset>
-</form>
+  <div class="row show-grid">
+    <div class="col col-sm-5"><p>5</p></div>
+    <div class="col col-sm-7"><p>7</p></div>
   </div>
-</div>
 
+  <div class="row show-grid">
+    <div class="col col-sm-6"><p>6</p></div>
+    <div class="col col-sm-6"><p>6</p></div>
+  </div>
+
+  <div class="row show-grid">
+    <div class="col col-sm-7"><p>7</p></div>
+    <div class="col col-sm-5"><p>5</p></div>
+  </div>
+
+  <div class="row show-grid">
+    <div class="col col-sm-8"><p>8</p></div>
+    <div class="col col-sm-4"><p>4</p></div>
+  </div>
+
+  <div class="row show-grid">
+    <div class="col col-sm-9"><p>9</p></div>
+    <div class="col col-sm-3"><p>3</p></div>
+  </div>
+
+  <div class="row show-grid">
+    <div class="col col-sm-10"><p>10</p></div>
+    <div class="col col-sm-2"><p>2</p></div>
+  </div>
+
+  <div class="row show-grid">
+    <div class="col col-sm-11"><p>11</p></div>
+    <div class="col col-sm-1"><p>1</p></div>
+  </div>
+
+  <div class="row show-grid">
+    <div class="col col-sm-12"><p>12</p></div>
+  </div>
+
+</article>
     </main><!-- /.main -->
 
 

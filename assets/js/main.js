@@ -56,7 +56,7 @@ jQuery(document).ready(function() {
 // Smooth Scroll
   $('a.smooth-scroll').smoothScroll({offset: 0});
   $('.nav-scroll a').smoothScroll({offset: -73 });
-  $('.back-top a').smoothScroll({offset: -100 });
+  $('.back-top a').smoothScroll({offset: -200 });
 
 // Back-top Button fading
   $(window).scroll(function() {
@@ -281,8 +281,3 @@ $(window).resize(function() {
     $("#screen-height").html($(window).height());
 }).resize();
 
-
-/* Mouseover Dropdown */
-$('.mouseover .dropdown').hover(function(){
-  $('.dropdown-toggle', this).trigger('click');
-});
