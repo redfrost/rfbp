@@ -36,9 +36,18 @@ jQuery(document).ready(function() {
     }
   });
 
+
+// Sidemenu Affix
+  $('.sidemenu').affix({ offset: {
+      top: 280,
+      bottom: 500
+    }
+  });
+
+
 // Smooth Scroll
   $('a.smooth-scroll').smoothScroll({offset: 0});
-  $('.nav-scroll a').smoothScroll({offset: -73 });
+  $('.nav-scroll a').smoothScroll({offset: -50 });
   $('.back-top a').smoothScroll({offset: -200 });
 
 // Back-top Button fading
@@ -74,25 +83,18 @@ jQuery(document).ready(function () {
 });
 
 
+
+
 // Selected Menu
-$(function(){
-  function stripTrailingSlash(str) {
-    if(str.substr(-1) == '/') {
-      return str.substr(0, str.length - 1);
-    }
-    return str;
-  }
+$(document).ready(function () {
+  var url = window.location;
+// Will only work if string in href matches with location
+  $('ul.nav a[href="' + url + '"]').parent().addClass('active');
 
-  var url = window.location.pathname;
-  var activePage = stripTrailingSlash(url);
-
-  $('.nav li a').each(function(){
-    var currentPage = stripTrailingSlash($(this).attr('href'));
-
-    if (activePage == currentPage) {
-      $(this).parent().addClass('active');
-    }
-  });
+// Will also work for relative and absolute hrefs
+  $('ul.nav a').filter(function () {
+    return this.href == url;
+  }).parent().addClass('active').parent().parent().addClass('active');
 });
 
 

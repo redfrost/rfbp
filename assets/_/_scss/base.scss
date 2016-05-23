@@ -1,5 +1,6 @@
 @charset "utf-8";
 html {
+  font-size: 100%;
 /*-webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
   -webkit-font-smoothing: subpixel-antialiased; /* Safari text fix */
@@ -30,8 +31,7 @@ select:-moz-focusring { color: transparent; text-shadow: 0 0 0 #000; }
 /* Image */
 a img { border: none; }
 img { max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; } /* max-width:100% causes IE8 bug */
-.img-responsive,
-.full-width { width: 100%; }
+.img-responsive, .full-width { width: 100%; }
 
 
 /* Selected text */

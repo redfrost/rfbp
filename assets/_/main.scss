@@ -1,0 +1,117 @@
+---
+---
+@charset "utf-8";
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Vendors
+@import
+        "bourbon",
+        "_vendor/bootstrap",
+        "_vendor/genericons",
+        "_vendor/animate",
+        "_vendor/magnific-popup";
+
+
+// LAYOUT
+$container-width: 1140px;
+
+
+// FONT STYLE
+$base-font-family: $helvetica;
+$base-font-size:   16px;
+$base-line-height: 28px;
+$base-font-color: #333;
+
+
+// HEADER FONT STYLE
+$heading-font-family: $helvetica;
+$heading-font-color: #000;
+$modular-scale-ratio: $perfect-fourth;
+$modular-scale-base: 1rem;
+
+
+// NAV BAR
+$mobile-break-point: 767px;
+$navbar-bg: #fff;
+$navbar-border-bottom: 1px solid #bbb;
+$navbar-height: 100px;
+
+
+// LOGO
+$navbar-logo-width: 300px;
+$navbar-logo-padding: 15px 15px;
+  $navbar-logo-mobile-width: 200px;
+  $navbar-logo-mobile-padding: 4px 15px;
+
+
+// NAV MENU
+$navbar-nav-float: right;
+$navbar-nav-margin: 0;
+$navbar-nav-desktop-padding: 26px 0;
+
+
+// NAV MENU LINK
+$navbar-nav-link-size: 16px;
+$navbar-nav-link-color: #666;
+$navbar-nav-desktop-link-padding: 10px 15px;
+
+  $navbar-nav-link-hover-color: #333;
+  $navbar-nav-link-hover-bg: #eee;
+
+  $navbar-nav-link-active-color: #333;
+  $navbar-nav-link-active-bg: #eee;
+
+
+// MOBILE TOGGLE BUTTON
+$navbar-nav-collapse-divider: #000; /* Mobile Menu Inner Border Divider */
+$navbar-toggle-bg: none;
+$navbar-toggle-color: #999;
+  $navbar-toggle-hover-bg: none;
+  $navbar-toggle-hover-color: #000;
+
+
+// FOOTER
+$footer-bg: #2a2730;
+$footer-color: #99979c;
+$footer-margin:   50px 0 0;
+$footer-padding:  40px 0;
+$footer-link-color: #fff;
+$footer-hr-display: none;
+$footer-hr-color:   #ccc;
+
+
+// LINK & BUTTON
+$link-color:  #0275d8;
+  $btn-primary: #0275d8;
+  $btn-default: #f5f5f5;
+  $btn-success: #5cb85c;
+  $btn-info   : #5bc0de;
+  $btn-warning: #f0ad4e;
+  $btn-danger : #d9534f;
+  $btn-inverse: #363636;
+
+
+
+
+// COMPONENTS
+@import
+        "base",
+        "fontface",
+        "_components/typography",
+        "_components/layout",
+        "_components/header",
+        "_components/buttons-links",
+        "_components/lists",
+        "_components/sidebar",
+        "_components/carousel",
+        "_components/jumbotron",
+        "_components/section-about",
+        "_components/section-services",
+        "_components/section-pricing",
+        "_components/section-team",
+        "_components/section-partners",
+        "_components/section-contact",
+        "_components/footer",
+        "fix",
+        "print",
+        "custom";
+

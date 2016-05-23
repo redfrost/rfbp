@@ -1,1 +1,18 @@
 // Add your own
+
+body {
+  position: relative;
+}
+
+
+.navbar-default.affix {
+  height: 50px;
+}
+.navbar-default.affix .navbar-nav,
+.navbar-default.affix .navbar-brand {
+    padding: 5px 0;
+}
+
+.navbar-default.affix .navbar-brand {
+  width: 180px;
+}
