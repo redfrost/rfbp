@@ -1,3 +1,7 @@
+### 1.0.2 25-Apr-2016
+* Fixed - JS selected menu not working in hosting severs
+
+
 ### 1.0.1 07-Apr-2016
 * Carousel caption text left alignment style
 * Enhanced jumbotron layout for mobile devices
