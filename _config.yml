@@ -10,8 +10,8 @@ gems:
 title:        "RFBP"
 slogan:       "Jekyll + Bootstrap"
 description:  "Redfrost Jekyll boilerplate"
-url:          "http://redfrost.com/rfbp"                       # the base hostname (*Do not close with /)
-baseurl:      "/rfbp"                       # the subpath of your site, e.g. /blog (Use this for Github project page)
+url:          ""                       # the base hostname (*Do not close with /)
+baseurl:      ""                       # the subpath of your site, e.g. /blog (Use this for Github project page)
 language:     "en"
 type:         "website"                 #website | blog
 
@@ -101,7 +101,7 @@ snsLink:
 formLink:      ""     # form Link
 formID:        ""     # form ID
 disqus:        ""     # Disqus ID
-trackingID:    "UA-41958063-6"     # Google analytics ID
+trackingID:    ""     # Google analytics ID
 videoLink:     "http://player.vimeo.com/video/56860648" # Promo Video
 
 
