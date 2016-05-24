@@ -3,10 +3,10 @@
   <channel>
     <title>RFBP</title>
     <description>Redfrost Jekyll boilerplate</description>
-    <link>http://redfrost.com/rfbp/rfbp/</link>
-    <atom:link href="http://redfrost.com/rfbp/rfbp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 May 2016 12:15:41 +1000</pubDate>
-    <lastBuildDate>Tue, 24 May 2016 12:15:41 +1000</lastBuildDate>
+    <link>http://redfrost.com/rfbp/</link>
+    <atom:link href="http://redfrost.com/rfbp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 May 2016 12:21:42 +1000</pubDate>
+    <lastBuildDate>Tue, 24 May 2016 12:21:42 +1000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post12/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post12/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post12/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post12/</guid>
         
         <category>footsteps</category>
         
@@ -46,8 +46,8 @@
 &lt;p&gt;Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post11/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post11/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post11/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post11/</guid>
         
         <category>footsteps</category>
         
@@ -72,8 +72,8 @@
 
 </description>
         <pubDate>Sun, 10 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post10/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post10/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post10/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post10/</guid>
         
         <category>footsteps</category>
         
@@ -131,8 +131,8 @@
 &lt;p&gt;Suspendisse potenti. Quisque nec leo vel enim blandit tempor at et nibh. Nunc bibendum justo vitae lectus fringilla hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a lorem in nibh consectetur placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc porta, enim a consectetur cursus, tortor metus semper mauris, vel fermentum nulla dui suscipit ipsum. Donec egestas, eros in ornare congue, dolor arcu consectetur dolor, non bibendum eros lectus dictum enim. Donec sodales justo aliquet magna porta lobortis non vitae nibh. Vestibulum turpis turpis, adipiscing eget adipiscing nec, imperdiet non lorem. Donec molestie ullamcorper sem vitae laoreet.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post9/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post9/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post9/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post9/</guid>
         
         <category>laboratory</category>
         
@@ -190,8 +190,8 @@
 &lt;p&gt;Suspendisse potenti. Quisque nec leo vel enim blandit tempor at et nibh. Nunc bibendum justo vitae lectus fringilla hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a lorem in nibh consectetur placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc porta, enim a consectetur cursus, tortor metus semper mauris, vel fermentum nulla dui suscipit ipsum. Donec egestas, eros in ornare congue, dolor arcu consectetur dolor, non bibendum eros lectus dictum enim. Donec sodales justo aliquet magna porta lobortis non vitae nibh. Vestibulum turpis turpis, adipiscing eget adipiscing nec, imperdiet non lorem. Donec molestie ullamcorper sem vitae laoreet.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post8/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post8/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post8/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post8/</guid>
         
         <category>journal</category>
         
@@ -245,8 +245,8 @@
 &lt;p&gt;Suspendisse potenti. Quisque nec leo vel enim blandit tempor at et nibh. Nunc bibendum justo vitae lectus fringilla hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a lorem in nibh consectetur placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc porta, enim a consectetur cursus, tortor metus semper mauris, vel fermentum nulla dui suscipit ipsum. Donec egestas, eros in ornare congue, dolor arcu consectetur dolor, non bibendum eros lectus dictum enim. Donec sodales justo aliquet magna porta lobortis non vitae nibh. Vestibulum turpis turpis, adipiscing eget adipiscing nec, imperdiet non lorem. Donec molestie ullamcorper sem vitae laoreet.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post7/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post7/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post7/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post7/</guid>
         
         <category>journal</category>
         
@@ -296,8 +296,8 @@
 &lt;p&gt;Suspendisse potenti. Quisque nec leo vel enim blandit tempor at et nibh. Nunc bibendum justo vitae lectus fringilla hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a lorem in nibh consectetur placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc porta, enim a consectetur cursus, tortor metus semper mauris, vel fermentum nulla dui suscipit ipsum. Donec egestas, eros in ornare congue, dolor arcu consectetur dolor, non bibendum eros lectus dictum enim. Donec sodales justo aliquet magna porta lobortis non vitae nibh. Vestibulum turpis turpis, adipiscing eget adipiscing nec, imperdiet non lorem. Donec molestie ullamcorper sem vitae laoreet.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post6/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post6/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post6/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post6/</guid>
         
         <category>journal</category>
         
@@ -343,8 +343,8 @@
 &lt;p&gt;Suspendisse potenti. Quisque nec leo vel enim blandit tempor at et nibh. Nunc bibendum justo vitae lectus fringilla hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a lorem in nibh consectetur placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc porta, enim a consectetur cursus, tortor metus semper mauris, vel fermentum nulla dui suscipit ipsum. Donec egestas, eros in ornare congue, dolor arcu consectetur dolor, non bibendum eros lectus dictum enim. Donec sodales justo aliquet magna porta lobortis non vitae nibh. Vestibulum turpis turpis, adipiscing eget adipiscing nec, imperdiet non lorem. Donec molestie ullamcorper sem vitae laoreet.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post5/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post5/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post5/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post5/</guid>
         
         <category>journal</category>
         
@@ -394,8 +394,8 @@
 &lt;p&gt;Suspendisse potenti. Quisque nec leo vel enim blandit tempor at et nibh. Nunc bibendum justo vitae lectus fringilla hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a lorem in nibh consectetur placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc porta, enim a consectetur cursus, tortor metus semper mauris, vel fermentum nulla dui suscipit ipsum. Donec egestas, eros in ornare congue, dolor arcu consectetur dolor, non bibendum eros lectus dictum enim. Donec sodales justo aliquet magna porta lobortis non vitae nibh. Vestibulum turpis turpis, adipiscing eget adipiscing nec, imperdiet non lorem. Donec molestie ullamcorper sem vitae laoreet.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post4/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post4/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post4/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post4/</guid>
         
         <category>journal</category>
         
@@ -441,8 +441,8 @@
 &lt;p&gt;Suspendisse potenti. Quisque nec leo vel enim blandit tempor at et nibh. Nunc bibendum justo vitae lectus fringilla hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a lorem in nibh consectetur placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc porta, enim a consectetur cursus, tortor metus semper mauris, vel fermentum nulla dui suscipit ipsum. Donec egestas, eros in ornare congue, dolor arcu consectetur dolor, non bibendum eros lectus dictum enim. Donec sodales justo aliquet magna porta lobortis non vitae nibh. Vestibulum turpis turpis, adipiscing eget adipiscing nec, imperdiet non lorem. Donec molestie ullamcorper sem vitae laoreet.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jan 2016 00:00:00 +1100</pubDate>
-        <link>http://redfrost.com/rfbp/rfbp/post/2016/01/single-post3/</link>
-        <guid isPermaLink="true">http://redfrost.com/rfbp/rfbp/post/2016/01/single-post3/</guid>
+        <link>http://redfrost.com/rfbp/post/2016/01/single-post3/</link>
+        <guid isPermaLink="true">http://redfrost.com/rfbp/post/2016/01/single-post3/</guid>
         
         <category>post</category>
         
