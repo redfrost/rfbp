@@ -38,11 +38,19 @@ $navbar-border-bottom: 1px solid #bbb;
 $navbar-height: 100px;
 
 
-// LOGO
+// LOGO IMAGE STYLE
 $navbar-logo-width: 300px;
 $navbar-logo-padding: 15px 15px;
   $navbar-logo-mobile-width: 200px;
   $navbar-logo-mobile-padding: 4px 15px;
+
+
+// LOGO TEXT STYLE
+$navbar-logotext-width: 300px;
+$navbar-logotext-size: 2rem;
+$navbar-logotext-color: #333;
+$navbar-logotext-padding: 35px 15px;
+  $navbar-logotext-mobile-padding: 12px 15px;
 
 
 // NAV MENU

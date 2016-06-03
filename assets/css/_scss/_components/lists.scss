@@ -46,6 +46,7 @@ ul.custom-list {
   /* A list heading */
  .post-list-item .media-heading {
    font-size: modular-scale(2);
+   margin-bottom: 0;
    }
    .post-list-item .media-heading a {
      font-size: inherit;
@@ -66,8 +67,9 @@ ul.custom-list {
   /* A list Excerpt */
     .post-list-item .post-excerpt,
     .post-list-item .post-excerpt p {
+      font-size: 0.875rem;
       margin-bottom: 10px;
-      line-height: normal;
+      line-height: 1.5;
       }
 
 

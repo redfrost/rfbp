@@ -1,7 +1,7 @@
 body.fixed-nav { margin-top: 50px; }
 
 
-/* NNAVBAR
+/* NAVBAR
 -------------------------------------- */
 .navbar {
   background: $navbar-bg;
@@ -12,15 +12,23 @@ body.fixed-nav { margin-top: 50px; }
   }
 
 
-/* Logo style
+/* Logo iamge style
 -------------------------------------- */
 .navbar-default .navbar-brand {
-  color: #333;
-  font-size: 2rem;
   margin: 0;
-  width: $navbar-logo-mobile-width;
   padding: $navbar-logo-mobile-padding;
+  width: $navbar-logo-mobile-width;
   }
+
+
+/* Logo text style
+-------------------------------------- */
+.navbar-default .navbar-brand.logo-text {
+  font-size: $navbar-logotext-size;
+  color: $navbar-logotext-color;
+  padding: $navbar-logotext-mobile-padding;
+  }
+
 
 
   /* Slogan */
@@ -89,9 +97,13 @@ body.fixed-nav { margin-top: 50px; }
     .navbar {
       height: $navbar-height;
       }
-    .navbar-default .navbar-brand {
+    .navbar-default .navbar-brand.logo-image {
       width: $navbar-logo-width;
       padding: $navbar-logo-padding;
+      }
+    .navbar-default .navbar-brand.logo-text {
+      padding: $navbar-logotext-padding;
+      width: $navbar-logotext-width;
       }
     .logo-box .slogan {
       display: inline-block;
@@ -225,8 +237,11 @@ Change this when you use mouse hover. */
 
   /* Navbar position */
   .navbar-default .navbar-nav { float: none !important; }
-  .navbar-default .navbar-collapse { max-height: none; }
   .navbar-default .container { width: 100%; }
+
+
+  /* Mobile menu max height */
+  .navbar-fixed-top .navbar-collapse { max-height: 340px;max-height: 80vh; }
 
 
   /* Menu */

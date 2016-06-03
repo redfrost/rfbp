@@ -33,7 +33,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">{% endif %}
   {% if site.testMode == 'on' %}<!-- Test mode -->
   <link rel="stylesheet" href="{{site.baseurl | prepend: site.url}}/assets/css/style-test.css?v{{site.time | date: '%s'}}">
-  <script src="{{site.url}}/assets/js/vendor/modernizr-3.2.0.min.js"></script>
+  <script src="{{site.baseurl | prepend: site.url}}/assets/js/vendor/modernizr-3.2.0.min.js"></script>
   <meta name="robots" content="noindex, nofollow">{% endif %}
 
   <link rel="canonical" href="{{page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}">

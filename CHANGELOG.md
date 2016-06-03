@@ -1,3 +1,11 @@
+### 1.0.3 3-Jun-2016
+* Changed: `topNavbar` to `topfixNav`
+* Changed: List style
+* Added: `pullupNav` pull up to show Nav
+* Added: Text logo style
+* Fixed: `topfixNav` cannot scroll long mobile menu. Use `vh` for `max-height`
+
+
 ### 1.0.2 25-Apr-2016
 * Fixed - JS selected menu not working in hosting severs
 
